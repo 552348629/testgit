@@ -4,10 +4,5 @@ c
 d
 e
 f
-gaaaaaaaaaaa
-bbbbbbbbbbbb
-cccccccccccc
-dddddddddddd
-ffffffffffff
 hhhhhhhhhhhh
 iiiiiiiiiiii
