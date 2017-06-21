@@ -1,9 +1,3 @@
-d
-a
-c
-d
-e
-f
 gaaaaaaaaaaa
 bbbbbbbbbbbb
 cccccccccccc
